@@ -1,0 +1,17 @@
+
+canvas{
+  position: fixed;
+  /* z-index: -1; */
+  top: 0;
+}
+
+.heading{
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  font-size: 100px ;
+  color: #1b262c ;
+}
+
+.invisible{
+  visibility: hidden;
+}
